@@ -1,0 +1,1 @@
+var manusia = {'anton','aden','zaky','andrian','beny','suhendra'};
